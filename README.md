@@ -16,7 +16,7 @@ CT Ammo Mover can be loaded as is by the HBS mod loader, however it will not be 
 
 #### Optional Dependancies:
     cFixes
-CT Ammo Mover will load AFTER these mods by default, none of these are required.  This is so CT Ammo Mover's changes can overwrite or merge successuflly.  Ct Ammo Mover's DLC files already include the Role/Lance unit tags added by cFixes.
+CT Ammo Mover will load AFTER these mods by default, none of these are required.  This is so CT Ammo Mover's changes can overwrite or merge successuflly.  CT Ammo Mover's DLC files already include the Role/Lance unit tags added by cFixes.
 
 ## Stock Files Edited:
 
