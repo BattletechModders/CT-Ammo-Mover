@@ -14,6 +14,10 @@ Thanks to mpstark and the entire ModTek team for making this mod possible!
 
 CT Ammo Mover can be loaded as is by the HBS mod loader, however it will not be able to alter any files inside the DLC packages.  It is recommended you use this mod with ModTek for a complete feature set and the ability to remove this mod without affecting your saves.
 
+#### Optional Dependancies:
+    cFixes
+CT Ammo Mover will load AFTER these mods by default, none of these are required.  This is so CT Ammo Mover's changes can overwrite or merge successuflly.  Ct Ammo Mover's DLC files already include the Role/Lance unit tags added by cFixes.
+
 ## Stock Files Edited:
 
 #### StreamingAssets\data\mech
