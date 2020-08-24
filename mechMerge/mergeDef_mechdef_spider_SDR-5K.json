@@ -1,0 +1,12 @@
+{
+    "TargetIDs": [
+				  "mechdef_spider_SDR-5K"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory[5].MountedLocation",
+            "Action": "Replace",
+            "Value": "RightTorso"
+        }
+    ]
+}

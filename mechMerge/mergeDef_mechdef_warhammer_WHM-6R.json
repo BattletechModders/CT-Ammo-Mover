@@ -1,0 +1,12 @@
+{
+    "TargetIDs": [
+				  "mechdef_warhammer_WHM-6R"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory[9].MountedLocation",
+            "Action": "Replace",
+            "Value": "RightTorso"
+        }
+    ]
+}

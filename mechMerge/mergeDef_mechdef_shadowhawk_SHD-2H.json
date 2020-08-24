@@ -1,0 +1,12 @@
+{
+    "TargetIDs": [
+				  "mechdef_shadowhawk_SHD-2H"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory[4].MountedLocation",
+            "Action": "Replace",
+            "Value": "RightTorso"
+        }
+    ]
+}

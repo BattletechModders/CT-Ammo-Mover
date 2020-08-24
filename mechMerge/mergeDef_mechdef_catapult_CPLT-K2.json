@@ -1,0 +1,12 @@
+{
+    "TargetIDs": [
+				  "mechdef_catapult_CPLT-K2"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory[6].MountedLocation",
+            "Action": "Replace",
+            "Value": "RightTorso"
+        }
+    ]
+}

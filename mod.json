@@ -1,0 +1,21 @@
+{
+    "Name": "CT Ammo Mover",
+    "Enabled": true,
+
+    "Version": "1.9.1.0",
+    "PackagedOn": "2020-08-23T08:00:00Z",
+
+    "Author": "Amechwarrior",
+    "Website": "https://github.com/BattletechModders/CT-Ammo-Mover/",
+	
+    "DependsOn": [],
+    "OptionallyDependsOn": [ "cFixes" ],
+    "ConflictsWith": [],
+
+    "Manifest": [
+
+	{ "Type": "MechDef", "Path": "mech" },
+	{ "Path": "mechMerge", "Type": "AdvancedJSONMerge" }
+	
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "TargetIDs": [
+				  "mechdef_blackjack_BJ-1",
+				  "mechdef_blackjack_BJ-1-STARTER"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory[4].MountedLocation",
+            "Action": "Replace",
+            "Value": "RightTorso"
+        }
+    ]
+}

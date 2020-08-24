@@ -1,0 +1,17 @@
+{
+    "TargetIDs": [
+				  "mechdef_awesome_AWS-8T"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory[7].MountedLocation",
+            "Action": "Replace",
+            "Value": "LeftTorso"
+        },
+        {
+            "JSONPath": "$.inventory[8].MountedLocation",
+            "Action": "Replace",
+            "Value": "RightTorso"
+        }
+    ]
+}

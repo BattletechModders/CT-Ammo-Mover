@@ -1,0 +1,12 @@
+{
+    "TargetIDs": [
+				  "mechdef_cicada_CDA-3C"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory[0].MountedLocation",
+            "Action": "Replace",
+            "Value": "LeftTorso"
+        }
+    ]
+}

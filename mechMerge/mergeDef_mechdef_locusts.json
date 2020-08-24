@@ -1,0 +1,14 @@
+{
+    "TargetIDs": [
+				  "mechdef_locust_LCT-1M",
+				  "mechdef_locust_LCT-1S",
+				  "mechdef_locust_LCT-1V"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory[2].MountedLocation",
+            "Action": "Replace",
+            "Value": "RightTorso"
+        }
+    ]
+}

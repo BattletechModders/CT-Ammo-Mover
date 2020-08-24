@@ -1,0 +1,17 @@
+{
+    "TargetIDs": [
+				  "mechdef_thunderbolt_TDR-5S"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory[7].MountedLocation",
+            "Action": "Replace",
+            "Value": "RightTorso"
+        },
+        {
+            "JSONPath": "$.inventory[8].MountedLocation",
+            "Action": "Replace",
+            "Value": "RightTorso"
+        }
+    ]
+}
